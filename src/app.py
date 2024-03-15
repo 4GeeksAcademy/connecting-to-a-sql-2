@@ -59,7 +59,7 @@ INSERT INTO publishers(publisher_id, name) VALUES (3, 'A K PETERS');
 INSERT INTO publishers(publisher_id, name) VALUES (4, 'Academic Press');
 INSERT INTO publishers(publisher_id, name) VALUES (5, 'Addison Wesley');
 INSERT INTO publishers(publisher_id, name) VALUES (6, 'Albert&Sweigart');
-INSERT INTO publishers(publisher_id, name) VALUES (7, 'Alfred A. Knopf');)
+INSERT INTO publishers(publisher_id, name) VALUES (7, 'Alfred A. Knopf');
                
 INSERT INTO authors (author_id, first_name, middle_name, last_name) VALUES (1, 'Merritt', null, 'Eric');
 INSERT INTO authors (author_id, first_name, middle_name, last_name) VALUES (2, 'Linda', null, 'Mui');
